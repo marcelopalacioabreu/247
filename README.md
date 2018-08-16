@@ -13,10 +13,10 @@
 >* Download beta from /game/beta <br>
 >* Download alpha from /game/alpha (on Request/Funder key)
 <!-- Links (HTML & Md) -->
-## Links: <a href="http://247.cyws.uk#donate">[Donate]</a><a href="http://247.cyws.uk">[Our Site]</a><a href="https://github.com/razatcorp/247">[![](/logo/github.png)]</a><br>
+## Links: <a href="http://247.cyws.uk#donate">[Donate]</a><a href="http://247.cyws.uk">[Our Site]</a><a href="https://github.com/razatcorp/247#YouWhereAlreadyHere">[![](/logo/github.png)]</a><br>
 <a href="http://247.cyws.uk#donate">[Donate]</a><br>
 <a href="http://247.cyws.uk">[Our Site]</a><br>
-<a href="https://github.com/razatcorp/247"> [![](/logo/github.png)]</a>
+<a href="https://github.com/razatcorp/247#YouWhereAlreadyHere"> [![](/logo/github.png)]</a>
 ## CfM (Crowdfunding Map)
 ### <a href="/CfM.md">Go there</a>
 ------------------------------------------------------------------------------------------------------------------------------------------
