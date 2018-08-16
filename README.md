@@ -9,6 +9,7 @@
 ## Download game
 >To download: <br>
 > * Download public from Steam (🔎 for "24:7 Free FPS") **NOT RELEASED YET** <br> 
+> * Download public from /game/public/ <br> 
 >* Download beta from /game/beta <br>
 >* Download alpha from /game/alpha (on Request/Funder key)
 <!-- Links (HTML & Md) -->
