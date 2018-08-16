@@ -9,9 +9,9 @@
 ## Download game
 >To download: <br>
 > * Download public from Steam (🔎 for "24:7 Free FPS") **NOT RELEASED YET** <br> 
-> * Download public from /game/public <br> 
->* Download beta from /game/beta <br>
->* Download alpha from /game/alpha (on Request/Funder key)
+> * Download public from /Game/Public <br> 
+>* Download beta from /Game/Beta <br>
+>* Download alpha from /Game/Alpha (on Request/Funder key)
 <!-- Links (HTML & Md) -->
 ## Links: <a href="http://247.cyws.uk#donate">[Donate]</a><a href="http://247.cyws.uk">[Our Site]</a><a href="https://github.com/razatcorp/247#YouWhereAlreadyHere">[![](/logo/github.png)]</a><br>
 <a href="http://247.cyws.uk#donate">[Donate]</a><br>
