@@ -15,7 +15,7 @@
 <!-- Links (HTML & Md) -->
 ## Links: <a href="http://247.cyws.uk#donate">[Donate]</a><a href="http://247.cyws.uk">[Our Site]</a><a href="https://github.com/razatcorp/247">[![](/logo/github.png)]</a>
 <!-- RGames logo in HTML (Markdown image size not supported by GH yet (16th Aug 2018) -->
-<img src="/logo/RGames_Logo.png" alt="drawing" width="65px" height="65px"/><!-- Publishing company <img src="https://avatars2.githubusercontent.com/u/29356850?s=60&v=4" alt="drawing" width="65px" height="65px">  -->
+<img src="/logo/RGames_Logo.png" alt="drawing" width="65px" height="65px"/><!-- Publishing company <img src="GAMEPUBL CO LOGO" alt="drawing" width="65px" height="65px">  -->
 <!-- Copyright (HTML) -->
 <i>Copyright RGames 2018 - A Gamedevelopment division of Razatcorp</i>
 <!-- 
