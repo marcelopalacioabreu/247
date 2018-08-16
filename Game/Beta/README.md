@@ -1,3 +1,3 @@
 ## BETA
-### To play the BETA+ use your steam dlc/funder key
+### To play on the Beta use your steam dlc/funder key
 ### Download from /dl
