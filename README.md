@@ -17,9 +17,9 @@
 > To add the devbadge open your badges click add new and type: "dev" then click on "(dev)" on the dropdownbox, you may need to add you github username as verification that you have contributed to this page.
 <!-- Links (HTML & Md) -->
 ## Links: <a href="http://247.cyws.uk#donate">[Donate]</a><a href="http://247.cyws.uk">[Our Site]</a><a href="https://github.com/razatcorp/247#YouWhereAlreadyHere">[![](/logo/github.png)]</a><br>
-<a href="http://247.cyws.uk#donate">[Donate]</a><br>
-<a href="http://247.cyws.uk">[Our Site]</a><br>
-<a href="https://github.com/razatcorp/247#YouWhereAlreadyHere"> [![](/logo/github.png)]</a>
+> <a href="http://247.cyws.uk#donate">[Donate]</a><br>
+> <a href="http://247.cyws.uk">[Our Site]</a><br>
+> <a href="https://github.com/razatcorp/247#YouWhereAlreadyHere"> [![](/logo/github.png)]</a>
 ## CfM (Crowdfunding Map)
 ### <a href="/CfM.md">Go there</a>
 ------------------------------------------------------------------------------------------------------------------------------------------
