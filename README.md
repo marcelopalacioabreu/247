@@ -18,7 +18,6 @@
 <!-- Scrumboards / Projects -->
 ## Our scrumboards & projects
 <img src="https://media.licdn.com/mpr/mpr/gcrc/dms/image/C4E12AQH4Ic5Z3F3x9Q/article-cover_image-shrink_720_1280/0?e=2132524800&v=beta&t=xrwW0WHogFjYLBKmfahgz0Hyx81YWOjQr-j1UOdRrvs" width="444px" length="250px"></b><br>
-<h9><i>Copyright - HBO Silicon valley</i></h9>
 <!-- SV image end -->
 > We have scrumboards (eg, <a href="https://github.com/razatcorp/247/projects/3"> Bugs </a>, <a href="https://github.com/razatcorp/247/projects/2"> Ideas </a>, <a href="https://github.com/razatcorp/247/projects/1"> Op piedpiper </a>) & projects over <a href="https://github.com/razatcorp/247/projects">here</a> (247/projects).
 <!-- Links (HTML & Md) -->
@@ -34,6 +33,8 @@
 <!-- Copyright (HTML) -->
 <i>Copyright RGames 2018 - A Gamedevelopment division of Razatcorp</i>
 <br><i>Seeking gamepublishing company/division <a href="mailto:gamepubl.247@cyws.uk">contact us</i></a>
+<br><i>Image rights: Copyright - HBO</i>
+<br><i>Piedpiper Icon: Copyright - Font Awesome/HBO</i>
 <!-- 
 <br><i>Copyright PUBL COMPANY 2018 - A Gamepublishing division of PARENTCOMPAMY</i>
 -->
