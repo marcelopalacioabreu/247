@@ -27,6 +27,7 @@
 <img src="/logo/RGames_Logo.png" alt="drawing" width="65px" height="65px"/><!-- Publishing company <img src="GAMEPUBL CO LOGO" alt="drawing" width="65px" height="65px">  -->
 <!-- Copyright (HTML) -->
 <i>Copyright RGames 2018 - A Gamedevelopment division of Razatcorp</i>
+<br><i>Seeking gamepublishing company/division <a href="mailto:gamepubl.247@cyws.uk">contact us</i></a>
 <!-- 
-<i>Copyright PUBL COMPANY 2018 - A Gamepublishing division of PARENTCOMPAMY</i>
+<br><i>Copyright PUBL COMPANY 2018 - A Gamepublishing division of PARENTCOMPAMY</i>
 -->
