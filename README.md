@@ -17,6 +17,9 @@
 > To add the devbadge open your badges (under options>user profile>Your Badges) click "+ add new" and type: "dev" then click on "(dev)" on the dropdownbox, you may need to add you github username as verification that you have contributed to this page.
 <!-- Scrumboards / Projects -->
 ## Our scrumboards & projects
+<img src="https://media.licdn.com/mpr/mpr/gcrc/dms/image/C4E12AQH4Ic5Z3F3x9Q/article-cover_image-shrink_720_1280/0?e=2132524800&v=beta&t=xrwW0WHogFjYLBKmfahgz0Hyx81YWOjQr-j1UOdRrvs"></b>
+<h9><i>Copyright - HBO Silicon valley</i></h9>
+<!-- SV image end -->
 > We have scrumboards (eg, <a href="https://github.com/razatcorp/247/projects/3"> Bugs </a>, <a href="https://github.com/razatcorp/247/projects/2"> Ideas </a>, <a href="https://github.com/razatcorp/247/projects/1"> Op piedpiper </a>) & projects over <a href="https://github.com/razatcorp/247/projects">here</a> (247/projects).
 <!-- Links (HTML & Md) -->
 ## Links: <a href="http://247.cyws.uk#donate">[Donate]</a><a href="http://247.cyws.uk">[Our Site]</a><a href="https://github.com/razatcorp/247#YouWhereAlreadyHere">[![](/logo/github.png)]</a><br>
@@ -24,7 +27,7 @@
 > <a href="http://247.cyws.uk">[Our Site]</a><br>
 > <a href="https://github.com/razatcorp/247#YouWhereAlreadyHere"> [![](/logo/github.png)]</a>
 ## CfM (Crowdfunding Map)
-### <a href="/CfM.md">Go there</a>
+> ### <a href="/CfM.md">Go there</a>
 ------------------------------------------------------------------------------------------------------------------------------------------
 <!-- RGames logo in HTML (Markdown image size not supported by GH yet (16th Aug 2018) -->
 <img src="/logo/RGames_Logo.png" alt="drawing" width="65px" height="65px"/><!-- Publishing company <img src="GAMEPUBL CO LOGO" alt="drawing" width="65px" height="65px">  -->
