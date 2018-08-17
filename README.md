@@ -26,7 +26,8 @@
 > <a href="http://247.cyws.uk">[Our Site]</a><br>
 > <a href="https://github.com/razatcorp/247#YouWhereAlreadyHere"> [![](/logo/github.png)]</a>
 ## CfM (Crowdfunding Map)
-> ### <a href="/CfM.md">Go there</a>
+> ### <a href="/CfM.md">Go to CfM</a>
+> ### <a href="/PresentationSway.md">NEW: presentation sway</a>
 ------------------------------------------------------------------------------------------------------------------------------------------
 <!-- RGames logo in HTML (Markdown image size not supported by GH yet (16th Aug 2018) -->
 <img src="/logo/RGames_Logo.png" width="65px" height="65px"><!-- Publishing company <img src="GAMEPUBL CO LOGO" alt="drawing" width="65px" height="65px">  -->
