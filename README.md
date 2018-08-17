@@ -19,7 +19,7 @@
 ## Our scrumboards & projects
 <img src="https://media.licdn.com/mpr/mpr/gcrc/dms/image/C4E12AQH4Ic5Z3F3x9Q/article-cover_image-shrink_720_1280/0?e=2132524800&v=beta&t=xrwW0WHogFjYLBKmfahgz0Hyx81YWOjQr-j1UOdRrvs" width="444px" length="250px"></b><br>
 <!-- SV image end -->
-> We have scrumboards (eg, <a href="https://github.com/razatcorp/247/projects/3"> Bugs </a>, <a href="https://github.com/razatcorp/247/projects/2"> Ideas </a>, <a href="https://github.com/razatcorp/247/projects/1"> Op piedpiper </a>) & projects over <a href="https://github.com/razatcorp/247/projects">here</a> (247/projects).
+> We have scrumboards (eg, <a href="https://github.com/razatcorp/247/projects/3"> Bugs </a>, <a href="https://github.com/razatcorp/247/projects/2"> Ideas </a>, <a href="https://github.com/razatcorp/247/projects/1"> Op <img src="https://cdn.iconscout.com/icon/free/png-512/pied-piper-8-569464.png" height="20" width="20"> piedpiper </a>) & projects over <a href="https://github.com/razatcorp/247/projects">here</a> (247/projects).
 <!-- Links (HTML & Md) -->
 ## Links: <a href="http://247.cyws.uk#donate">[Donate]</a><a href="http://247.cyws.uk">[Our Site]</a><a href="https://github.com/razatcorp/247#YouWhereAlreadyHere">[![](/logo/github.png)]</a><br>
 > <a href="http://247.cyws.uk#donate">[Donate]</a><br>
@@ -29,7 +29,7 @@
 > ### <a href="/CfM.md">Go there</a>
 ------------------------------------------------------------------------------------------------------------------------------------------
 <!-- RGames logo in HTML (Markdown image size not supported by GH yet (16th Aug 2018) -->
-<img src="/logo/RGames_Logo.png" alt="drawing" width="65px" height="65px"/><!-- Publishing company <img src="GAMEPUBL CO LOGO" alt="drawing" width="65px" height="65px">  -->
+<img src="/logo/RGames_Logo.png" width="65px" height="65px"/><!-- Publishing company <img src="GAMEPUBL CO LOGO" alt="drawing" width="65px" height="65px">  -->
 <!-- Copyright (HTML) -->
 <i>Copyright RGames 2018 - A Gamedevelopment division of Razatcorp</i>
 <br><i>Seeking gamepublishing company/division <a href="mailto:gamepubl.247@cyws.uk">contact us</i></a>
