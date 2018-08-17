@@ -17,7 +17,7 @@
 > To add the devbadge open your badges (under options>user profile>Your Badges) click "+ add new" and type: "dev" then click on "(dev)" on the dropdownbox, you may need to add you github username as verification that you have contributed to this page.
 <!-- Scrumboards / Projects -->
 ## Our scrumboards & projects
-<img src="https://media.licdn.com/mpr/mpr/gcrc/dms/image/C4E12AQH4Ic5Z3F3x9Q/article-cover_image-shrink_720_1280/0?e=2132524800&v=beta&t=xrwW0WHogFjYLBKmfahgz0Hyx81YWOjQr-j1UOdRrvs"></b>
+<img src="https://media.licdn.com/mpr/mpr/gcrc/dms/image/C4E12AQH4Ic5Z3F3x9Q/article-cover_image-shrink_720_1280/0?e=2132524800&v=beta&t=xrwW0WHogFjYLBKmfahgz0Hyx81YWOjQr-j1UOdRrvs" width="444px" length="250px"></b><br>
 <h9><i>Copyright - HBO Silicon valley</i></h9>
 <!-- SV image end -->
 > We have scrumboards (eg, <a href="https://github.com/razatcorp/247/projects/3"> Bugs </a>, <a href="https://github.com/razatcorp/247/projects/2"> Ideas </a>, <a href="https://github.com/razatcorp/247/projects/1"> Op piedpiper </a>) & projects over <a href="https://github.com/razatcorp/247/projects">here</a> (247/projects).
