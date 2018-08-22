@@ -1,3 +1,3 @@
 # Alpha
-## To play the alpha use the steam dlc or use the key if you crowdfund us
-## Download from /dl
+## To play the alpha use the steam DLC or use the key if you crowdfunded us
+## Download from <a href="/dl">/dl</a>
