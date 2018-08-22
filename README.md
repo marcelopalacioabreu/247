@@ -8,13 +8,19 @@
 <!-- Contributing -->
 ## Contributing
 > Our Contribuiting Guidlines <a href="/CONTRIBUTING.md">Read More</a>
+<!-- Wsid? -->
+## What should i do?
+- <a href="/razatcorp/247/issues">Suggest an Idea/Feature request</a><br>
+- <a href="/razatcorp/247/issues">I Have found a bug</a><br>
+- <a href="/razatcorp/247">Add some code</a><br>
+- <a href="mailto:pushaccess.247@cyws.uk"> Request push access</a>
 <!-- Bullet points (Md) -->
 ## Download game
 >To download: <br>
-> * Download public from Steam (🔎 for "24:7 Free FPS") **NOT RELEASED YET** <br> 
-> * Download public from /Game/Public <br> 
->* Download beta from /Game/Beta <br>
->* Download alpha from /Game/Alpha (on Request/Funder key)
+> - Download public from Steam (🔎 for "24:7 Free FPS") **NOT RELEASED YET** <br> 
+> - Download public from /Game/Public <br> 
+> - Download beta from /Game/Beta <br>
+> - Download alpha from /Game/Alpha (on Request/Funder key)
 <!-- Licence -->
 ## Licence
 > We are protected under the Apache License 2.0 <a href="/LICENSE">Read More</a>
