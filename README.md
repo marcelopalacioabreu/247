@@ -14,7 +14,7 @@
 >* Download alpha from /Game/Alpha (on Request/Funder key)
 <!-- Licence -->
 ## Licence
-> We are protected under the Apache License 2.0 <a href="/Licence">Read More</a>
+> We are protected under the Apache License 2.0 <a href="247/LICENSE">Read More</a>
 <!-- Devbadge -->
 ## DevBadge
 > To add the devbadge open your badges (under options>user profile>Your Badges) click "+ add new" and type: "dev" then click on "(dev)" on the dropdownbox, you may need to add you github username as verification that you have contributed to this page.
