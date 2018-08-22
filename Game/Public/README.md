@@ -1,4 +1,5 @@
-# Public - <font color="#d80225">NO RELEASE YET</font>
-## Do not edit the files in public edit the files in 247/Game/Alpha
-## Download from /dl or from steam
-![#f03c15](https://placehold.it/15/d80225/000000?text=+) `#d80225`
+# DON'T edit the files in <a href="Razatcorp/247/Game/Public">/Public</a> or <a href="Razatcorp/247/Game/Beta">/Beta</a>
+## Please edit the files in <a href="Razatcorp/247/Game/Alpha">247/Game/Alpha</a> 
+## To play the Public download from <a href="http://steamgames.com/404.html">steam</a>
+## Download from <a href="/Public/dl">/dl</a>
+### Thanks - 2:47 Github admin
