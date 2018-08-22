@@ -1,5 +1,4 @@
-# DON'T edit the files in <a href="/Game/Public">/Public</a> or <a href="/Game/Beta">/Beta</a> 
-## Please edit the files in <a href="/Game/Alpha">247/Game/Alpha</a>
+## DON'T edit the files in <a href="/Game/Public">/Game/Public</a> or <a href="/Game/Beta">/Game/Beta</a>, Edit the files in <a href="/Game/Alpha">/Game/Alpha</a>
 ## Download from 247/[Alpha/Beta/Public]/dl
 - Alpha (Development process & ideas - Only Dev &/or Doner access)
 - Beta (Checking popularity & removing bugs - Only BetaUser acess)
